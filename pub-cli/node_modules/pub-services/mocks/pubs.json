@@ -1,0 +1,57 @@
+[
+  {
+    "name": "Pendragon",
+    "owner": {
+      "firstName": "Brendan",
+      "lastName": "Siche",
+      "mail": "brendansiche@gmail.com"
+    },
+    "openDays": [
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday",
+      "Saturday"
+    ],
+    "openHours": {
+      "start": 10,
+      "end": 1
+    },
+    "beers":
+    [
+      {
+        "type": "Blonde",
+        "name": "Triple Karmeliet"
+
+      }
+    ]
+  },
+  {
+    "name": "Ravioli",
+    "owner": {
+      "firstName": "Brendan",
+      "lastName": "Siche",
+      "mail": "brendansiche@gmail.com"
+    },
+    "openDays": [
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday",
+      "Saturday"
+    ],
+    "openHours": {
+      "start": 10,
+      "end": 1
+    },
+    "beers":
+    [
+      {
+        "type": "Blonde",
+        "name": "Triple Karmeliet"
+
+      }
+    ]
+  }
+]
+
